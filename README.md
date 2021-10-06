@@ -23,7 +23,7 @@ git clone https://github.com/Hasban-Fardani/tkinter-calculator.git
 
 * unzip tkinter-calculator (jika menggunakan git tidak perlu)
 
-### Menjalankan script
+### Cara Menjalankan Script
 
 * buka terminal/cmd
 * masuk ke folder tempat menyimpan script tadi menggunakan perintah ```cd <namafolder>``` misal:
