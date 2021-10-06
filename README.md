@@ -11,7 +11,7 @@ Kalkulator ini sama mirip dengan kalkulator bawaan pada perangkat kalian, tapi d
 ### Requirements
 
 * python 3.8.5 atau lebih
-* tkinter
+* tkinter 8.6 (di windows otomatis ada setelah install python)
 
 ### Installasi
 
@@ -47,8 +47,6 @@ sudo apt install python3-tk
 ```
 
 ## Author
-
-Contributors names and contact info
 
 [Hasban Fardani (github)](https://github.com/Hasban-Fardani)  
 [Hasban Fardani (Facebook)](https://www.facebook.com/hasban.fardani.92/)
