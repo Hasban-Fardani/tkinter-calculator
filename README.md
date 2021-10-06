@@ -46,6 +46,9 @@ dan anda menggunakan linux os, maka jalankan perintah ini:
 sudo apt install python3-tk
 ```
 
+## Executable file
+klik [di sini](https://github.com/Hasban-Fardani/tkinter-calculator/releases/download/main/calculator.exe) untuk mendownload script dalam bentuk file [exe](https://en.wikipedia.org/wiki/.exe)
+
 ## Author
 
 [Hasban Fardani (github)](https://github.com/Hasban-Fardani)  
@@ -58,3 +61,4 @@ sudo apt install python3-tk
 * [tkinter tutorial](https://www.youtube.com/watch?v=yQSEXcf6s2I&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV) by [john elder](https://github.com/flatplanet) from [codecademy](https://codecademy.com/)
 * [tkinter documentation](https://docs.python.org/3/library/tk.html)
 * [tkinter tutorial by tkdocs.com](https://tkdocs.com/tutorial/)
+* [what is exe file?](https://en.wikipedia.org/wiki/.exe)
