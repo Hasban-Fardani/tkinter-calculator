@@ -16,7 +16,7 @@ Kalkulator ini sama mirip dengan kalkulator bawaan pada perangkat kalian, tapi d
 ### Installasi
 
 * Download [python](https://www.python.org/downloads/) lalu install
-* Download scriptnya dalam bentuk zip [di sini](https://github.com/Hasban-Fardani/tkinter-calculator/archive/refs/heads/main.zip) atau bisa juga menggunakan [git](https://git-scm.com/): 
+* Download scriptnya dalam bentuk zip [di sini](https://github.com/Hasban-Fardani/tkinter-calculator/archive/refs/heads/main.zip) atau bisa juga menggunakan [git](https://git-scm.com/) di cmd/terminal: 
 ```
 git clone https://github.com/Hasban-Fardani/tkinter-calculator.git
 ```
